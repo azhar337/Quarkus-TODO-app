@@ -105,4 +105,4 @@ Distributed under the MIT License.
 
 Your Name - [@123](https://twitter.com/123) - 123@gmail.com
 
-Project Link: [https://github.com/azhar337/office-temperature](https://github.com/azhar337/office-temperature)
+Project Link: [https://github.com/azhar337/Quarkus-TODO-app](https://github.com/azhar337/Quarkus-TODO-app)
